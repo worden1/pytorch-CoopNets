@@ -1,0 +1,7 @@
+*.pyc
+.idea/*
+.idea
+data/*
+data
+result_images
+checkpoint
