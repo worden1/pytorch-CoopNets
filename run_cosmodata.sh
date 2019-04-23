@@ -1,0 +1,1 @@
+python main.py -with_noise true -set scene -category cosmodata -img_size 64 -lr_des 0.003 -langevin_step_size_des 0.001 -langevin_step_num_des 10 -sigma_des 0.016 -num_epoch 1500 -log_epoch 500 -batch_size 2 -nRow 12 -nCol 12 -data_path ./Texture/
